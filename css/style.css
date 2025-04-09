@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(12, 11, 11);
+    background-color: cyan;
+    text-align:center;
+    border:5px rgb(185, 11, 11) solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+p{
+    color: azure;
+    background-color:black;
+    text-align:center;
+    border: 5px rgba(255, 0, 0, 0.616) dashed;
+    padding: 30px;
+    line-height: 30px;s
+}
+#oyennn{
+    background-image: url(../img/vi.jpg)
+}
+#oyennn h1{
+   background-color: transparent;
+   border: none;
+}
