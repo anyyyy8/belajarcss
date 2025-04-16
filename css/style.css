@@ -27,3 +27,28 @@ p{
    background-color: transparent;
    border: none;
 }
+#kotaksatu{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(15, 193, 247);
+    display: inline-block;
+}
+#kotakdua{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(224, 32, 205);
+    display: inline-block;
+}
+#lingkaran{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(224, 67, 32);
+    border-radius: 50px;
+    display: inline-block;
+}
+#persegipanjang{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(38, 50, 222);
+    display: inline-block;
+}
